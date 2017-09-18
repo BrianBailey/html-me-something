@@ -69,6 +69,9 @@ p {
 
   font-weight: bold;
   padding: 30px;
+  margin: 60px;
+  
+  
   
 }
 
@@ -90,7 +93,7 @@ p {
 #mainContent {
    width: 60%;
    height: 50%;
-   argin: 100px auto;
+  
    
    
    padding: 20px;
