@@ -113,10 +113,12 @@ p {
     height: 60px;
     background: #222;
     margin: 0 auto;
+}
    
     
 
-
+.link-color {
+  color: #FFF;
 }
 
 
